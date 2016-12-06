@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_ae9d6f2b3dc88fc6ad41a488e402424f8ad6b0e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_c4d089799ef97e5ad2884feb3e14ef66ff84955c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hayden/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_110cbe1df30dafa4f9d703fd042d7e6e17eef9c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_0cd704581a56ad3d10f30b302778b29a685d10b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f0c962b22810b352989261c8a95a9609dc0365a2">
+        <dex dex="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77365e3f933dbefb23e4d569d5d9b2cf9d743c3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b472f6465d2f55621ad98f0aa3a8d9be276ff7e8">
+        <dex dex="/Users/Hayden/Documents/Tic-Tac-Toe---Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_be0c275477fb80db75c1fd26f585813ddb3630c4/classes.dex" />
+    </item>
+
+</items>

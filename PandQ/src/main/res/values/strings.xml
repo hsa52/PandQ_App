@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="boardsize">3</string>
+    <string name="P">"   P   "</string>
+    <string name="Q">"   Q   "</string>
+    <string name="none">"          "</string>
+</resources>

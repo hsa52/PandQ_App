@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.haydenpunchescamels.tictactoe">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="HomeScreen"
+        android:theme="@style/AppTheme">
+        <activity android:name=".homescreen">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".startthegame"
+            android:label="Play">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.haydenpunchescamels.tictactoe.homescreen" />
+        </activity>
+        <activity android:name=".settingspage"
+            android:label="Settings">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.haydenpunchescamels.tictactoe.homescreen" />
+        </activity>
+        <activity android:name=".creditspage"
+            android:label="Credits">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.haydenpunchescamels.tictactoe.homescreen" />/>
+        </activity>
+    </application>
+</manifest>
